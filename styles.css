@@ -171,6 +171,24 @@ body {
 
 /* section 4 end */
 
+/* footer */
+
+.footer {
+  height: 100px;
+  background-color: #1f2937;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.footer p {
+  color: white;
+}
+
+
+
+/* footer end*/
+
 ul {
   list-style-type: none;
   margin: 0;

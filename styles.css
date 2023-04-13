@@ -100,6 +100,32 @@ body {
 }
 /* section 2 end */
 
+/* section 3 */
+.section-3 {
+    background-color: #E5E7EB;
+    padding: 50px 0;    
+}
+
+.quote {
+    width: 845px;
+    margin: 0 auto;
+    width: 845px;
+    font-size: 36px;
+    font-weight: light;
+    color: #1f2937;
+    font-style: italic;
+}
+
+.by-line {
+    font-size: 24px;
+    color:#1f2937;
+    font-weight: bold;
+    width: 845px;
+    margin: 16px auto;
+    text-align: end;    
+}
+/* section 3 end */
+
 ul {
     list-style-type: none;
     margin: 0;
